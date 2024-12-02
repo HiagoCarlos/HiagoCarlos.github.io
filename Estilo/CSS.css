@@ -226,6 +226,10 @@ i {
   font-size: 60px;
   margin-bottom: 10px;
 }
+.fa {
+  font-size: 1em; }
+
+
 
 @media screen and (max-width: 750px) {
   .fileira {
